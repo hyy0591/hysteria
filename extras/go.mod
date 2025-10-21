@@ -32,7 +32,7 @@ require (
 	github.com/quic-go/qpack v0.4.1-0.20240402233928-cc0625910152 // indirect
 	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/txthinking/runnergroup v0.0.0-20210608031112-152c7c4432bf // indirect
-	go.uber.org/mock v0.5.0 // indirect
+	go.uber.org/mock v0.4.0 // indirect
 	golang.org/x/exp v0.0.0-20240506185415-9bf2ced13842 // indirect
 	golang.org/x/mod v0.18.0 // indirect
 	golang.org/x/sync v0.8.0 // indirect
